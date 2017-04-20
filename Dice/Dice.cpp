@@ -12,7 +12,7 @@
 Dice::Dice(){
     int m_NoOfSides(6);
     {}
-}
+} 
 
 void Dice::setSides(int sides){
     m_NoOfSides = sides;
@@ -32,4 +32,4 @@ vector<int> rollDice(int times, vector<int> rollVec, int sides){
         rollVec.push_back(result);
     }
     return rollVec;
-}
+} 

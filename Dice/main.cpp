@@ -27,5 +27,5 @@ int main() {
     {
         std::cout << *i << endl;
     }
-    return 0;
+    return 0; 
 }

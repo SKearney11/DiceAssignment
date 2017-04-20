@@ -25,6 +25,6 @@ private:
 };
 
 vector<int> rollDice(int times, vector<int> rollVec, int sides);
-
+ 
 
 #endif /* Dice_hpp */
